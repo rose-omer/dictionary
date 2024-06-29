@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import messagebox
 import random
 
-# İngilizce ve Türkçe kelimelerin listesi
 englishKelimeler = [
     'apple', 'banana', 'grape', 'orange', 'strawberry',
     'pear', 'peach', 'plum', 'cherry', 'apricot',
